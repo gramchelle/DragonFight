@@ -103,3 +103,6 @@ For any questions or feedback, feel free to reach out:
 
 * Email: ozlemnduman34@hotmail.com
 * Linkedin: (https://www.linkedin.com/in/ozlemnurduman/)
+
+
+Footnote: I wanted to make something different, so i used the rock paper scissors format and the requirements in the instructions given. Everything is in the same format and method with rock paper scissors game, but instead of objects we have dragon heroes in this game. By increasing the number of options, chances of winning and losing decreases at the same time. Which motivates the player to be careful when deciding what to use. Wish you enjoy this game. 
