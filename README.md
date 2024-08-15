@@ -1,4 +1,4 @@
-# DragonFight Game
+# Dragon Taso Game
 
 ## Overview
 The goal of this project is to create a DragonFight game, where players choose a dragon with specific power points and face off against a randomly selected opponent dragon. The project aims to enhance your Python programming skills, including the use of loops, conditional statements, and user input, while also encouraging creativity and adherence to coding standards such as PEP-8.
