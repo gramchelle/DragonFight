@@ -88,8 +88,8 @@ def tas_kagit_makas_OZLEM_NUR_DUMAN():
 
             difference = dragons[hero] - random_dragon_value
 
-            print("\nYour dragon:", hero, "and has", dragons[hero], "power points!\n" +
-                  "Your opponent has", random_dragon_key, "with ", random_dragon_value, "power!\n" +
+            print("\nYour dragon:", hero, "and has", dragons[hero], "power!\n" +
+                  "Your opponent:", random_dragon_key, "with ", random_dragon_value, "power!\n" +
                   "You have ", difference, "difference.\n")
 
             if dragons[hero] > random_dragon_value:
