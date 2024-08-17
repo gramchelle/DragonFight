@@ -2,18 +2,27 @@
 
 ## Overview
 
-The DragonFight game pits players against a computer-controlled opponent in a series of battles featuring dragons with specific power points. The game aims to enhance Python programming skills and provide an engaging experience with basic game mechanics, including loops, conditionals, and user input.
+The DragonTaso game pits players against a computer-controlled opponent in a series of battles featuring dragons with specific power points. The game aims to enhance Python programming skills and provide an engaging experience with basic game mechanics, including loops, conditionals, and user input.
 
 This project was developed as a capstone project for the Global AI Hub's Aygaz Python Bootcamp. It serves as an opportunity to apply foundational Python concepts and develop creative problem-solving skills while engaging in a fun and interactive game.
 
+## Project Outline
 
-## Project Objectives
+- Make sure you have python 3.2 or higher versions installed in your computer. To check this you can enter terminal ```python --version to terminal``` in your computer.
+- The game can be downloaded easily by logging ```git clone https://github.com/gramchelle/DragonTaso``` in your terminal.
+- Then enter this ```cd your_path_to_project``` in terminal.
+- Now you can enjoy the game by entering this ```python DragonTaso.py``` in your terminal
+- _tas_kagit_makas_OZLEM_NUR_DUMAN()_ is already called in the python file. So, it's not mandatory for you to call the method.
+- You are opponents with your computer and you have to pick higher level hero than your opponent to win the tour.
+- Who wins twice in row becomes straightforward winner, this is only valid for the first 2 tour.
+- The game also has 200 points at the beginning. Each win gives +20p, each lose causes -40p and each draw causes -20p to both sides.
+- At the end of each 2-tour, the game asks you and your opponent if you want to continue. If you both enter yes, then the game will continue until you enter something else or one runs out ouf their game points.
+
+### Objectives
 
 - Apply basic Python concepts such as loops, conditional statements, and user input.
 - Develop logical thinking and adaptability.
 - Incorporate creativity in game design.
-
-## Project Outline
 
 ### Game Introduction
 
