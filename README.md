@@ -8,7 +8,7 @@ This project was developed as a capstone project for the Global AI Hub's Aygaz P
 
 ## Project Outline
 
-- Make sure you have python 3.2 or higher versions installed in your computer. To check this you can enter terminal ```python --version to terminal``` in your computer.
+- Make sure you have python 3.2 or higher versions installed in your computer. To check this you can enter terminal ```python --version``` to terminal in your computer.
 - The game can be downloaded easily by logging ```git clone https://github.com/gramchelle/DragonTaso``` in your terminal.
 - Then enter this ```cd your_path_to_project``` in terminal.
 - Now you can enjoy the game by entering this ```python DragonTaso.py``` in your terminal
